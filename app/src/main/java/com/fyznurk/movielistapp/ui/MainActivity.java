@@ -1,7 +1,9 @@
-package com.fyznurk.movielistapp;
+package com.fyznurk.movielistapp.ui;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.fyznurk.movielistapp.R;
 
 public class MainActivity extends AppCompatActivity {
 
